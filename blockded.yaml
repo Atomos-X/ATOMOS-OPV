@@ -5,3 +5,5 @@ payload:
   - 'appconf-ocs-in.heytapdl.com'
   - 'mdp-appconf-in.heytapdl.com'
   - 'obus-in.dc.heytapmobile.com'
+  - 'icota-service-in.allawnos.com'
+  - 'gui-server-in.allawnos.com'
